@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/contact": {
+      "name": "/contact",
+      "lambdaFunction": "awsdemo23a07102",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

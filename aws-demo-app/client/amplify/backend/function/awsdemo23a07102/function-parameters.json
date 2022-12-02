@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "storage": {
+      "contacts": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
